@@ -12,9 +12,9 @@ const Navbar = () => {
             <LeftContainer>
                 <NavbarLinkContainer>
                     <NavbarLink to="/">Home</NavbarLink>
-                    <NavbarLink to="/products">Practice</NavbarLink>
-                    <NavbarLink to="/contact">Stats</NavbarLink>
-                    <NavbarLink to="/about">Categories</NavbarLink>
+                    <NavbarLink to="/practice">Practice</NavbarLink>
+                    <NavbarLink to="/stats">Stats</NavbarLink>
+                    <NavbarLink to="/sections">Sections</NavbarLink>
                     <OpenLinksButton onClick={() => {
                         setExtendNavbar((curr) => !curr);
                     }}>
@@ -31,9 +31,9 @@ const Navbar = () => {
         {extendNavbar &&
             <NavbarExtendedContainer>
                 <NavbarLinkEntended to="/">Home</NavbarLinkEntended>
-                <NavbarLinkEntended to="/products">Products</NavbarLinkEntended>
-                <NavbarLinkEntended to="/contact">Contact</NavbarLinkEntended>
-                <NavbarLinkEntended to="/about">About Us</NavbarLinkEntended>
+                <NavbarLinkEntended to="/practice">Practice</NavbarLinkEntended>
+                <NavbarLinkEntended to="/stats">Stats</NavbarLinkEntended>
+                <NavbarLinkEntended to="/sections">Sections</NavbarLinkEntended>
             </NavbarExtendedContainer>
         }
     </NavbarContainer>
