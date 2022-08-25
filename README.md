@@ -9,26 +9,26 @@
 
 ## 1. Transmission Control Protocol
 
-| Question                                                                                                                                                          | Answer                                     |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| TCP is one of the basic standards that define the rules of the internet. Which organisation defines these standards?                                              | Internet Engineering Task Force (IETF)     |
-| Name three protocols which use TCP protocol to transmit data.                                                                                                     | FTP, SSH and Telnet                        |
-| Which other protocol is used to establish low-latency connections between applications and decrease transmissions time. It is considered to be alternative of TCP | User Datagram Protocol                     |
-| What are four main layers of TCP/IP model?                                                                                                                        | Datalink, Internet, Transport, Application |
-| We send data packets over TCP.Is it safe or unsafe to send private data using public Wi-fi?                                                                       | Unsafe                                     |
+|S.No|Question|Answer|
+| --- | --- | --- |
+|1| TCP is one of the basic standards that define the rules of the internet. Which organisation defines these standards?                                              | Internet Engineering Task Force (IETF)     |
+|2| Name three protocols which use TCP protocol to transmit data.                                                                                                     | FTP, SSH and Telnet                        |
+|3| Which other protocol is used to establish low-latency connections between applications and decrease transmissions time. It is considered to be alternative of TCP | User Datagram Protocol                     |
+|4| What are four main layers of TCP/IP model?                                                                                                                        | Datalink, Internet, Transport, Application |
+|5| We send data packets over TCP.Is it safe or unsafe to send private data using public Wi-fi?                                                                       | Unsafe                                     |
 
 ## 2. Simple Mail Transfer Protocol
-| Question                                                                                                                                     | Answer                           |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-| Which protocol is used for sending mail to over the internet ?                                                                               | SMTP                             |
-| Which protocols are used for retrieving emails ?                                                                                             | POP and IMAP                     |
-| A set of commands that authenticates and directs the transfer of mail is called ?                                                            | SMTP                             |
-| What is the general address of smtp server which is used in gmail ?                                                                          | smtp.gmail.com                   |
-| Which protocol is used by SMTP ?                                                                                                             | TCP                              |
-| If we assume that the email of receiver exists, then what guarantees delivery of email ?                                                     | TCP                              |
-| Which SMTP extension allows the email to be relayed to the recipients after they have been authenticated ?                                   | ODMR (On Demand Mail Relay)      |
-| What is the full form of IMAP ?                                                                                                              | Internet Message Access Protocol |
-| ____ allows its users to organize their available emails on the server. ___ downloads the mail first and then allows its users to read them. | IMAP, POP3                       |
+|S.No|Question|Answer|
+| --- | --- | --- |
+|1| Which protocol is used for sending mail to over the internet ?                                                                               | SMTP                             |
+|2| Which protocols are used for retrieving emails ?                                                                                             | POP and IMAP                     |
+|3| A set of commands that authenticates and directs the transfer of mail is called ?                                                            | SMTP                             |
+|4| What is the general address of smtp server which is used in gmail ?                                                                          | smtp.gmail.com                   |
+|5| Which protocol is used by SMTP ?                                                                                                             | TCP                              |
+|6| If we assume that the email of receiver exists, then what guarantees delivery of email ?                                                     | TCP                              |
+|7| Which SMTP extension allows the email to be relayed to the recipients after they have been authenticated ?                                   | ODMR (On Demand Mail Relay)      |
+|8| What is the full form of IMAP ?                                                                                                              | Internet Message Access Protocol |
+|9| ____ allows its users to organize their available emails on the server. ___ downloads the mail first and then allows its users to read them. | IMAP, POP3                       |
 
 ## 3. IP Address
 |Question|Answer|
