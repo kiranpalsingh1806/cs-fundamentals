@@ -97,4 +97,4 @@ ____ is the arrangement of memory management. According to it, the logical addre
 |_______ is a phenomenon in virtual memory scheme when the processor spends most of its time in swapping pages, rather than executing instructions.| Thrashing|
 |________ is a very useful memory management technique which enables processes to execute outside of memory. This technique is especially used when an executing program cannot fit in the physical memory. | Virtual Memory|
 |________ specifies that if an area of memory is not currently being used, it is swapped to disk to make room for an application's need. | Demand Paging|
-|Paging is used to solve the external fragmentation problem in operating system. This technique ensures that the data you need is available as quickly as possible. |Paging|
+|Which technique is used to solve the external fragmentation problem in operating system. This technique ensures that the data you need is available as quickly as possible. |Paging|
